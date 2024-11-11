@@ -1,0 +1,8 @@
+[package]
+name = "ghost"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+request = "0.0.8"
+tokio = "1.41.1"
